@@ -2,7 +2,7 @@
 
 An intelligent web application that recommends the most suitable crops to grow based on soil and climate conditions using machine learning.
 
-![App Screenshot](images/screenshot1.png)
+![App Screenshot](Screenshots/)
 
 ## Features
 
